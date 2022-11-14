@@ -1,0 +1,36 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2
+Enter the filename from which load a game
+AddTileNotConnected.save
+Loading: AddTileNotConnected.save
+Qwirkle game successfully loaded
+B, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O5|  |
+C |  |  |  |
+Your hand is
+R1,R4,R2,P5,R6,G5
+> place P5 at A2
+Failed to place tile
+B, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O5|  |
+C |  |  |  |
+Your hand is
+R1,R4,R2,P5,R6,G5
+>

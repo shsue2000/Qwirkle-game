@@ -1,0 +1,45 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2
+Enter the filename from which load a game
+QwirkleScoreColours.save
+Loading: QwirkleScoreColours.save
+Qwirkle game successfully loaded
+B, it's your turn
+Score for A: 18
+Score for B: 18
+   0  1  2  3  4  5  6
+  ----------------------
+A |  |  |  |  |  |  |  |
+B |  |R1|Y1|B1|P1|G1|  |
+C |  |R2|  |  |  |  |  |
+D |  |R3|  |  |  |  |  |
+E |  |R4|  |  |  |  |  |
+F |  |R5|  |  |  |  |  |
+G |  |  |  |  |  |  |  |
+Your hand is
+O1,G4,B4,Y4,B1
+> place O1 at B6
+
+Qwirkle!
+A, it's your turn
+Score for A: 18
+Score for B: 31
+   0  1  2  3  4  5  6  7
+  -------------------------
+A |  |  |  |  |  |  |  |  |
+B |  |R1|Y1|B1|P1|G1|O1|  |
+C |  |R2|  |  |  |  |  |  |
+D |  |R3|  |  |  |  |  |  |
+E |  |R4|  |  |  |  |  |  |
+F |  |R5|  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |
+Your hand is
+R6,B3,Y5,P5,O4,O1
+>

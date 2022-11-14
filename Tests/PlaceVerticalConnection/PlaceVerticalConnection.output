@@ -1,0 +1,47 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2
+Enter the filename from which load a game
+PlaceVerticalConnection.save
+Loading: PlaceVerticalConnection.save
+Qwirkle game successfully loaded
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+G5,P4,B1,R1,R5,R2
+> place B1 at B1
+B, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |B1|  |
+C |  |  |  |
+Your hand is
+O3,B4,Y4,Y1,B5,G6
+> place Y1 at A1
+A, it's your turn
+Score for A: 0
+Score for B: 3
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |Y1|  |
+C |  |B1|  |
+D |  |  |  |
+Your hand is
+G5,P4,R1,R5,R2,R3
+>

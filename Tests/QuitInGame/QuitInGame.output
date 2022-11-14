@@ -1,0 +1,27 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 1
+Starting a New Game
+Enter a name for player 1 (uppercase characters only)
+> A
+Enter a name for player 2 (uppercase characters only)
+> B
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+R5,O6,Y6,B3,P6,B4
+> quit
+
+Goodbye!

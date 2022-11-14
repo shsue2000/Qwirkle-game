@@ -1,0 +1,58 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2        
+Enter the filename from which load a game
+curr
+Loading: curr
+Qwirkle game successfully loaded
+APPLE, it's your turn
+Score for APPLE: 0
+Score for PEAR: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+R3,O1,O2,Y1,P2,O5
+> place O1 at B1
+PEAR, it's your turn
+Score for APPLE: 0
+Score for PEAR: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O1|  |
+C |  |  |  |
+Your hand is
+B3,B6,P1,R6,G5,R5
+> place P1 at C1
+APPLE, it's your turn
+Score for APPLE: 0
+Score for PEAR: 3
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O1|  |
+C |  |P1|  |
+D |  |  |  |
+Your hand is
+R3,O2,Y1,P2,O5,P2
+> place O2 at B2
+PEAR, it's your turn
+Score for APPLE: 3
+Score for PEAR: 3
+   0  1  2  3
+  -------------
+A |  |  |  |  |
+B |  |O1|O2|  |
+C |  |P1|  |  |
+D |  |  |  |  |
+Your hand is
+B3,B6,R6,G5,R5,R4

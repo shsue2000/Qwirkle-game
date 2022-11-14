@@ -1,0 +1,61 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 1
+Starting a New Game
+Enter a name for player 1 (uppercase characters only)
+> PLAYERONE
+Enter a name for player 2 (uppercase characters only)
+> PLAYERTWO
+PLAYERONE, it's your turn
+Score for PLAYERONE: 0
+Score for PLAYERTWO: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+O4,Y2,B1,G3,B5,R1
+> place O4 at B1
+PLAYERTWO, it's your turn
+Score for PLAYERONE: 0
+Score for PLAYERTWO: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O4|  |
+C |  |  |  |
+Your hand is
+O5,Y5,G1,B4,R4,P2
+> place O5 at C1
+PLAYERONE, it's your turn
+Score for PLAYERONE: 0
+Score for PLAYERTWO: 3
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O4|  |
+C |  |O5|  |
+D |  |  |  |
+Your hand is
+Y2,B1,G3,B5,R1,R1
+> save SaveGameInProgress.save
+Game successfully saved
+PLAYERONE, it's your turn
+Score for PLAYERONE: 0
+Score for PLAYERTWO: 3
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O4|  |
+C |  |O5|  |
+D |  |  |  |
+Your hand is
+Y2,B1,G3,B5,R1,R1
+>

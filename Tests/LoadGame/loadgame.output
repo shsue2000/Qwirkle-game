@@ -1,0 +1,19 @@
+Enter the filename from which load a game
+
+> loadgame.save
+
+Qwirkle game successfully loaded
+
+PLAYERONE, it's your turn 
+
+Score for PLAYERONE: 0
+Score for PLAYERTWO: 0
+
+   0  1  2  
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+
+Your hand is
+Y5,G5,R5,O2,B1,P6

@@ -1,0 +1,25 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2
+Enter the filename from which load a game
+test.save
+Loading: test.save
+Qwirkle game successfully loaded
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+Y2,R3,B4,B3,O5,G2
+> place Y3 at B1
+Failed to place tile

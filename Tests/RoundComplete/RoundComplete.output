@@ -1,0 +1,47 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 2
+Enter the filename from which load a game
+RoundComplete.save
+Loading: RoundComplete.save
+Qwirkle game successfully loaded
+A, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |  |  |
+C |  |  |  |
+Your hand is
+O6,O6,R3,R6,O1,O5
+> place O1 at B1
+B, it's your turn
+Score for A: 0
+Score for B: 0
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O1|  |
+C |  |  |  |
+Your hand is
+Y1,B1,Y5,P1,Y1,G4
+> place B1 at C1
+A, it's your turn
+Score for A: 0
+Score for B: 3
+   0  1  2
+  ----------
+A |  |  |  |
+B |  |O1|  |
+C |  |B1|  |
+D |  |  |  |
+Your hand is
+O6,O6,R3,R6,O5,B3
+>
